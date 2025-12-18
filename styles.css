@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.title {
+    color: rgb(34, 46, 56)
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+}
+
+#myButton {
+    padding: 10px 18px;
+    font-size: 16px;
+    background-color: orange;
+    border: none;
+    cursor: pointer;
+}
+
+#myButton:hover {
+    background-color: darkorange;
+}
+
+#submitButton {
+    padding: 10px 18px;
+    font-size: 16px;
+    background-color: orange;
+    border: none;
+    cursor: pointer;
+}
+
+#submitButton:hover {
+    background-color: darkorange;
+}
+
+
